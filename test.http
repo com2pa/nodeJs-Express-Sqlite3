@@ -1,0 +1,7 @@
+//probar lo que me trae el backend
+POST http://localhost:3000/api/users
+Content-Type: application/json
+
+{
+    "name": "Juan",
+}
